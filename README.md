@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sukanta Maikap based out of Sydney, Australia.
+### Hi there 👋 , I'm Sukanta Maikap based out of Sydney, Australia.
 
 Here are some ideas to get you started:
 
