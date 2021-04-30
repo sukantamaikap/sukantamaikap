@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I cook and love to experiment with food from all over the world & I'm a photographer.
 
+## Blog and Writing
+
+I write mostly about tech, SaaS and a bit of philosophy. Head over to [sukantamaikap.com](https://sukantamaikap.com/)
+
 ## GitHub 📈
 
 ![Sukanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukantamaikap&show_icons=true&count_private=true&theme=vue)
