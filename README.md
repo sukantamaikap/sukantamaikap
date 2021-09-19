@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working ... IaC in GCP using GDM with Python & a Chrome extension 
-- 🌱 I’m currently learning ... ReactJS and associated libs
+- 🔭 I’m currently working ... IaC (Terraform, Ansible & Packer), Python, NextJS
+- 🌱 I’m currently learning ... NextJS and associated libs
 - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... ReactJS in the context of browser extension
+- 🤔 I’m looking for help with ... CSS, CSS, CSS
 - 💬 Ask me about ... DevOps
 - 📫 How to reach me: ... @sukantamaikap
 - 😄 Pronouns: ...He/His
