@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... CSS, CSS, CSS
 - 💬 Ask me about ... DevOps
 - 📫 How to reach me: ... @sukantamaikap
-- 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I cook and love to experiment with food from all over the world & I'm a photographer.
 
 ## Blog and Writing
